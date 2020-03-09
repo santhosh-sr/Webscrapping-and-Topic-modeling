@@ -1,13 +1,20 @@
 # Webscrapping-and-Topic-modeling
 
-Agenda
+## Agenda
 Understanding Topic Modelling
+
 Webscraping
+
 Brief Introduction to HTML
+
 Using Beautiful Soup to scrape the webpages
+
 Problem Statement: Determining the Latent Topics from blogs
+
 First Level Extraction
+
 Second Level Extraction
+
 Third Level Extraction
 Introduction to Text mining
 Regular Expression for special character removal
